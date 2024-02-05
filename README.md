@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yanis</h1>
+<h3 align="center">A student developer from France</h3>
+
+- 🌱 I’m currently learning **Java, JavaScript, SQL, HTML/CSS, Python, PHP**
+
+- 📫 How to reach me **yanis.breon@outlook.fr**
+
+- ⚡ Fun fact **Always curious**  
 
 <!--
 **oLusto/oLusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
