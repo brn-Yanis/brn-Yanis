@@ -1,4 +1,6 @@
+![paysage](https://github.com/oLusto/oLusto/assets/82027748/35bd100e-ec70-43d6-b8e6-b6d7ab5133df)
 <h1 align="center">Hi 👋, I'm Yanis</h1>
+
 <h3 align="center">A student developer from France</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, SQL, HTML/CSS, Python, PHP**
